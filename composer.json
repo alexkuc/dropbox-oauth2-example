@@ -1,0 +1,16 @@
+{
+    "name": "alexkucheryuk/dropbox-oauth2-example",
+    "description": "Example on how to use spatie/dropbox-api with stevenmaguire/oauth2-dropbox",
+    "type": "project",
+    "require": {
+        "stevenmaguire/oauth2-dropbox": "^3.0",
+        "spatie/dropbox-api": "^1.16"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander Kucheryuk",
+            "email": "3331946+alexkuc@users.noreply.github.com"
+        }
+    ]
+}
