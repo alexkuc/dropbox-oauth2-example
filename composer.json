@@ -4,7 +4,13 @@
     "type": "project",
     "require": {
         "stevenmaguire/oauth2-dropbox": "^3.0",
-        "spatie/dropbox-api": "^1.16"
+        "spatie/dropbox-api": "^1.16",
+        "vlucas/phpdotenv": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Example\\": "."
+        }
     },
     "license": "MIT",
     "authors": [
